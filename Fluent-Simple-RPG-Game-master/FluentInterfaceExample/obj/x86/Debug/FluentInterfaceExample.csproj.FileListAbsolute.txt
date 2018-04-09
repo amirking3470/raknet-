@@ -1,0 +1,8 @@
+C:\Users\KING\Desktop\Fluent-Simple-RPG-Game-master\FluentInterfaceExample\bin\Debug\FluentInterfaceExample.exe
+C:\Users\KING\Desktop\Fluent-Simple-RPG-Game-master\FluentInterfaceExample\bin\Debug\FluentInterfaceExample.pdb
+C:\Users\KING\Desktop\Fluent-Simple-RPG-Game-master\FluentInterfaceExample\bin\Debug\FluentInterfaceExample.Types.dll
+C:\Users\KING\Desktop\Fluent-Simple-RPG-Game-master\FluentInterfaceExample\bin\Debug\FluentInterfaceExample.Types.pdb
+C:\Users\KING\Desktop\Fluent-Simple-RPG-Game-master\FluentInterfaceExample\obj\x86\Debug\FluentInterfaceExample.csprojResolveAssemblyReference.cache
+C:\Users\KING\Desktop\Fluent-Simple-RPG-Game-master\FluentInterfaceExample\obj\x86\Debug\FluentInterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\KING\Desktop\Fluent-Simple-RPG-Game-master\FluentInterfaceExample\obj\x86\Debug\FluentInterfaceExample.exe
+C:\Users\KING\Desktop\Fluent-Simple-RPG-Game-master\FluentInterfaceExample\obj\x86\Debug\FluentInterfaceExample.pdb
